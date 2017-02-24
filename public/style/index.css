@@ -1,0 +1,12 @@
+.fixed-action-btn.horizontal ul {
+    left: inherit;
+}
+
+.center-img {
+    margin: 0 auto;
+    display: block;
+}
+
+.flex-container {
+    display: flex;
+}
